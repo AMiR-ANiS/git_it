@@ -1,2 +1,3 @@
 # git_it
-first git test repository
+first git test repository.
+See branch master
