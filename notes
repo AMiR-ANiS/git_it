@@ -62,3 +62,8 @@ server: 192.168.1.1
 server has master branch
 
 Feature branch workflow: everytime a new feature is to be developed, take out a feature branch from the master branch and merge it back.
+
+git remote add origin https://github.com/AMiR-ANiS/git_it.git 
+git push -u origin master 
+-u : user 
+git push origin master 
